@@ -1,28 +1,27 @@
-{OSG8} ( {{Tugas 2}} )
-{{tentang_project}}.
+# Flutter Basic Apps ( Tugas 2 - OSG08 )
+Aplikasi Flutter dengan tema Kemerdekaan untuk tugas ke-2 kelas OSG08.
 
-Screenshot
-{{img/screenshoot.png}}.
+## Screenshot
+![](img/Screenshoot.png).
 
-Built With
-{{flutter}}
+## Built With
+- [Flutter](https://flutter.dev)
 
-Created By
-{{Arista Wahyu Saputra}}
+## Created By
+- Arista Wahyu Saputra
 
-{{FLUTTER BASIC}} Eudeka!
-{{tentang_kelas}}.
+## OSG08 - Flutter Basic
+Dengan jangka waktu lebih kurang 2 bulan, peserta diharapkan dapat mengenal dan membuat aplikasi simple Flutter dengan menggunakan data dari internet (API).
 
-{{OSG8}}
-Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
+## Cara Mendaftar Online Study Group OSG08
+Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di dawah ini.
 
-Cara Mendaftar {{jenis_kelas}}
-{{cara_daftar}}.
+## Info Lebih Lengkap
+Website : [www.eudeka.id](https://www.eudeka.id).  
+Twitter: [@EudekaID](https://twitter.com/EudekaID).  
+Telegram : [@eudekainfo](https://t.me/eudekainfo).  
+Instagram : [@eudeka.id](https://instagram.com/eudeka.id).  
+WhatsApp : [0895351577557](https://wa.me/62895351577557).  
+Email : [info@eudeka.id](mailto:info@eudeka.id).  
 
-Info Lebih Lengkap
-Website : www.eudeka.id.
-Twitter: @EudekaID.
-Telegram : @eudekainfo.
-Instagram : @eudeka.id.
-WhatsApp : 0895351577557.
-Email : info@eudeka.id.
+###### tags: `Samples` `Eudeka` `OSG08`
